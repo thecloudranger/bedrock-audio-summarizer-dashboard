@@ -2,6 +2,8 @@
 
 A Streamlit application that allows users to record audio, manage recordings, and view their transcriptions and summaries. This application integrates with AWS S3 for storage and provides a user-friendly interface for audio management.
 
+To setup the backend, clone the following repo and follow the instructions: https://github.com/aws-samples/amazon-bedrock-audio-summarizer
+
 ## Architecture
 
 ```mermaid
